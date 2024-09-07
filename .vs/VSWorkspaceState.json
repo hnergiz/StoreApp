@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Presentation",
+    "\\Presentation\\bin",
+    "\\Presentation\\bin\\Debug",
+    "\\Presentation\\bin\\Release",
+    "\\Presentation\\Controllers",
+    "\\Services",
+    "\\StoreApp",
+    "\\StoreApp\\StoreApp",
+    "\\StoreApp\\StoreApp\\bin",
+    "\\StoreApp\\StoreApp\\bin\\Release"
+  ],
+  "SelectedNode": "\\StoreApp\\StoreApp\\StoreApp.csproj",
+  "PreviewInSolutionExplorer": false
+}
